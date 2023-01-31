@@ -1,0 +1,25 @@
+.info{
+    border: solid 4px gray;
+    border-radius: 10px;
+}
+
+#name{
+    background-color: blue;
+    color: crimson;
+    text-align: center;
+}
+
+#car{
+    background-color: greenyellow;
+    color: orange;
+    text-align: center;
+}
+
+#picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 60%;
+    object-fit: contain;
+}
